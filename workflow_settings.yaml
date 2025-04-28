@@ -1,0 +1,5 @@
+defaultProject: eminent-will-448112-h0
+defaultLocation: US
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0
